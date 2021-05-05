@@ -1,0 +1,7 @@
+scrapinghub-entrypoint-scrapy>=0.8.0
+scrapy==1.5.2
+nameparser==0.5.7
+js2py==0.59
+xmltodict==0.11.0
+selenium
+jsonlines
